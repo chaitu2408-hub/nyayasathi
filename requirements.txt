@@ -1,0 +1,8 @@
+streamlit
+streamlit-mic-recorder
+google-generativeai
+pydantic
+python-docx
+python-dotenv
+sentence-transformers
+faiss-cpu
